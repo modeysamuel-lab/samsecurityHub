@@ -2,7 +2,7 @@
 
 [![][image-banner]][vercel-link]
 
-# LobeHub
+# samsecurityHub
 
 LobeHub organizes your agents into 7×24 operation.
 
